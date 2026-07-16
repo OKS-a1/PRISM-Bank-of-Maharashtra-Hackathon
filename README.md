@@ -20,7 +20,6 @@
 - [Architecture](#-architecture)
 - [Repository Structure](#-repository-structure)
 - [Future Roadmap](#-future-roadmap)
-- [Team QRIUS](#-team-qrius)
 - [License](#-license)
   
 ## 🏦 About PRISM
@@ -162,6 +161,12 @@ Maintains complete audit trails and investigation records to support regulatory 
 - Performance Optimization
 - Monitoring
 - Compliance Validation
+
+## 🌟 Why PRISM?
+
+Banks face increasing insider threats that cannot be detected through traditional rule-based monitoring alone.
+
+PRISM introduces a context-aware approach by combining privileged access monitoring, operational workflow validation, and evidence correlation to help security teams detect, investigate, and respond to high-risk activities with greater confidence.
 
 # 📜 License
 
