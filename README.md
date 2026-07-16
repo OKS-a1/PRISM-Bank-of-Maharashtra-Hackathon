@@ -78,6 +78,37 @@ Validates privileged activities against expected banking operational workflows t
 | Integration | CBS, IAM, SIEM APIs |
 | Version Control | Git & GitHub |
 
+# 📂 Repository Structure
+
+```text
+PRISM-Bank-of-Maharashtra-Hackathon
+│
+├── README.md
+├── LICENSE
+│
+├── docs/
+│   ├── Research
+│   ├── References
+│   └── Documentation
+│
+├── architecture/
+│   ├── System Architecture
+│   ├── Workflow
+│   └── Deployment
+│
+├── prototype/
+│   ├── UI Mockups
+│   └── Screenshots
+│
+├── frontend/
+│
+├── backend/
+│
+├── assets/
+│
+└── ppt/
+```
+
 ## 🔍 Evidence-Based Decision Validation
 Correlates user activities, transaction context, approvals, and operational evidence to provide explainable investigations and reduce false positives.
 
@@ -100,3 +131,40 @@ Continuously monitors privileged accounts, administrative activities, authentica
 
 ## 📝 Audit & Compliance Support
 Maintains complete audit trails and investigation records to support regulatory compliance and forensic analysis.
+
+# 🚀 Future Roadmap
+
+## Phase 1 — Research & Design ✅
+- Problem Analysis
+- Banking Risk Assessment
+- Architecture Design
+- UI/UX Planning
+
+## Phase 2 — Prototype Development 🚧
+- Dashboard Development
+- Backend APIs
+- Authentication
+- Risk Engine
+
+## Phase 3 — AI Integration
+- Behavioral Analytics
+- Explainable AI
+- Insider Threat Detection
+
+## Phase 4 — Enterprise Deployment
+- CBS Integration
+- SIEM Integration
+- IAM Integration
+- Multi-Branch Deployment
+
+## Phase 5 — Production Ready
+- Security Hardening
+- Performance Optimization
+- Monitoring
+- Compliance Validation
+
+# 📜 License
+
+This project is developed as part of the **FinSpark'26 Hackathon** organized by **Bank of Maharashtra**.
+
+The repository is intended for educational, research and demonstration purposes.
