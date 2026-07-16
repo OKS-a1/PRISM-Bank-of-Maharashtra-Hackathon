@@ -1,11 +1,28 @@
 # 🛡️ PRISM
-
+![Status](https://img.shields.io/badge/Status-Prototype-success)
+![Domain](https://img.shields.io/badge/Domain-Cybersecurity-blue)
+![Industry](https://img.shields.io/badge/Industry-Banking-darkgreen)
+![Hackathon](https://img.shields.io/badge/FinSpark-2026-orange)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ### Privileged Risk Intelligence & Security Management Platform
 
 > **An AI-assisted platform designed to detect insider threats, privileged access misuse, and anomalous privileged activities within the Bank of Maharashtra ecosystem.**
 
 ---
+## 📑 Table of Contents
 
+- [About PRISM](#-about-prism)
+- [Problem Statement](#-problem-statement)
+- [Our Solution](#-our-solution)
+- [Key Features](#-key-features)
+- [Technology Stack](#-technology-stack)
+- [System Workflow](#-system-workflow)
+- [Architecture](#-architecture)
+- [Repository Structure](#-repository-structure)
+- [Future Roadmap](#-future-roadmap)
+- [Team QRIUS](#-team-qrius)
+- [License](#-license)
+  
 ## 🏦 About PRISM
 
 PRISM (Privileged Risk Intelligence & Security Management Platform) is a cybersecurity solution developed by **Team QRIUS** for the **FinSpark'26 Hackathon** organized by **Bank of Maharashtra**.
@@ -49,6 +66,17 @@ to identify suspicious privileged activities while minimizing false positives an
 Validates privileged activities against expected banking operational workflows to identify suspicious deviations rather than relying only on predefined rules.
 
 ---
+# 🛠️ Technology Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Frontend | React.js (Planned) |
+| Backend | FastAPI / Python (Planned) |
+| Database | PostgreSQL / MongoDB (Planned) |
+| AI & Analytics | Machine Learning, Risk Scoring |
+| Security | RBAC, Audit Logs, Encryption |
+| Integration | CBS, IAM, SIEM APIs |
+| Version Control | Git & GitHub |
 
 ## 🔍 Evidence-Based Decision Validation
 Correlates user activities, transaction context, approvals, and operational evidence to provide explainable investigations and reduce false positives.
